@@ -4,6 +4,7 @@ Date	Who	Start	Stop	Interruptions	Question	TimeOnTask	Comments
 9/6	CM	15:20	15:35	0		GitHub		15		Made account and downloaded GitHub client
 9/6	CM	17:40	17:55	0		CCIS Account	15		Took me a while to find an acceptable password
 9/6	CM	17:55	18:00	0		PPT dowload	5		Found how to download Office 365 from MyNEU
+	CM					Network				Haven't been on campus since orientation to test wireless connection
 9/7	CM	18:00	18:05	0		1		5
 9/7	CM	18:05	18:10	0		2		5
 9/7	CM	18:10	18:15	0		3		5
@@ -12,9 +13,11 @@ Date	Who	Start	Stop	Interruptions	Question	TimeOnTask	Comments
 9/7	CM	18:45	18:55	0		6		10
 9/7	CM	18:55	19:00	0		7		5		
 9/7	CM	19:00	19:10	0		8		10
-9/7	CM	19:10	19:20	0		9		10
+9/7	CM	19:10	19:20	0		9		10		Could not use function name even? so just used even
+										(could not find answer to question on piazza to validate this method)
 9/7	CM	19:20	19:35	0		10		15
 ============committing to git: 9/8 3:35 ===================
+
 
 Total Time on Laptop Preparations (minutes)	 55
 Total Time On Task Q1 (minutes)                  5
